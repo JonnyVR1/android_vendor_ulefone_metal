@@ -1,11 +1,13 @@
-# Ulefone Metal - CyanogenMod 13.0
+# Ulefone Metal - Unofficial CyanogenMod 13.0
 ==============
 
-This branch is device for building of the CyanogenMod 13.0.
+This branch is device for building of the Unofficial CyanogenMod 13.0.
 
 ---
 
 # About Device
+
+![Ulefone Metal](http://ulefone.com/images/metal/buy/metal-buy.jpg "Ulefone Metal")
 
 
 ### Specifications
@@ -36,7 +38,6 @@ Front Camera | 2MP ---> Int. 5 (OV)
 * FM Radio with Speaker ok
 * FM Radio record ok
 * Hardware Key ok
-* Home key ---> No
 * Light ok
 * MicroSD ok
 * Vibration ok
@@ -60,13 +61,12 @@ Front Camera | 2MP ---> Int. 5 (OV)
 ##Broken/Bugs
 * Videocamera ---> Crash after 2 sec.
 * Leds
-* Home key
 * Other other other other other
 
 ##to be checked
-LTE
-Fingerprint
-OTG
+* LTE
+* Fingerprint
+* OTG
 
 ##To improve
 * LCD density ----> OK
