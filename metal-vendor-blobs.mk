@@ -21,8 +21,6 @@ PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,vendor/ulefone/metal/propr
 
 PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,vendor/ulefone/metal/proprietary/lib64,system/lib64)
 
-PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,vendor/ulefone/metal/proprietary/usr,system/usr)
-
 PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,vendor/ulefone/metal/proprietary/vendor,system/vendor)
 
 PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,vendor/ulefone/metal/proprietary/xbin,system/xbin)
