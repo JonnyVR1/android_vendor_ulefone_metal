@@ -1,7 +1,7 @@
-# Ulefone Metal - Unofficial CyanogenMod 13.0
+# Ulefone Metal - CyanogenMod 14.1 / AOSP 7.1.1
 ==============
 
-This branch is device for building of the Unofficial CyanogenMod 13.0.
+This branch is device for building of the CyanogenMod 14.1 and Android Nougat 7.1.1 AOSP ROMs.
 
 ---
 
@@ -21,60 +21,56 @@ Shipped Android Version | 6.0.1
 Storage | 16GB
 Battery | 3050 mAh
 Display | 5.0" 1280 x 720 px DPI 480
-Rear Camera | 8MP ---> Int.13MP (Sony IMX149 Exmor RS)
-Front Camera | 2MP ---> Int. 5 (OV)
+Rear Camera | 8MP, Int.13MP (Sony IMX149 Exmor RS)
+Front Camera | 2MP, Int. 5MP (OV)
 
 ---
 
 # Build Information
 
-### Working:
-## Ok
-* Booting.....
-* USB ok
-* WiFi ok
-* Touch ok
-* FM Radio ok
-* FM Radio with Speaker ok
-* FM Radio record ok
-* Hardware Key ok
-* Light ok
-* MicroSD ok
-* Vibration ok
-* Rotation ok
-* Camera Front ----> up to 5 mpx ok
-* Camera Rear ---> up to 13 mpx ok
-* HDR Foto ok
-* Flash Camera ok
-* Panorama ok
-* Sim1/2 Pin ok
-* MicroSim 1 ok
-* NanoSim 2 ok
-* Bluetooth ok
-* Sensor ok
-* Gyro ok
-* Audio Speaker ok
-* Headphones ok
-* AudioFx ok
+### In progress(only for CM 14.1):
+ * Hardware acceleration
+ * Wi-Fi
+ * Offline charging
+ * GPS
+ * AGPS
+ * Vibration
+ * Audio
+ * Auto brightness
+ * Doze
+ * RAM and ROM
+ * Rotation
+ * All sensors
+ * NFC (payments, pairing .etc)
+ * Lazer autofocus
+ * Flashlight (statusbar and camera)
+ * Bluetooth
+ * Camera rear/front (video and photo)
+ * Micro SD support
+ * MTP and Mass Storage modes
+ * Audio over Bluetooth (music, calls .etc)
+ * Fingerprint scanner
+ * Wi-Fi tethering
+ * HOME Button like in stock
+ * Special button new functional
 
 
 ## Broken/Bugs
-* Videocamera ---> Crash after 2 sec.
+* Camera
+* RIL
 * Other other other other other
 
 ## To be checked
-* LTE
-* Fingerprint
 * OTG
 
-## To improve
 
 
 ### Thanks to:
  * CyanogenMod team
- * Deepflex ---> Big Thanks for his reposity p9000 cm13
+ * Deepflex
  * Wuxianlin
  * Ferhung
+ * SHVED
  * Xen0n
  * Leskal
  * JonnyXDA
@@ -82,3 +78,4 @@ Front Camera | 2MP ---> Int. 5 (OV)
  * Visi0nary
  * andyrichardson
  * Team M.A.D
+ * Lucky76
