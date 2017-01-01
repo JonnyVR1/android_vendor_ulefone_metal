@@ -1,7 +1,7 @@
-# Ulefone Metal - CyanogenMod 14.1 / AOSP 7.1.1
+# Ulefone Metal - LineageOS 14.1 / AOSP 7.1.1
 ==============
 
-This branch is device for building of the CyanogenMod 14.1 and Android Nougat 7.1.1 AOSP ROMs.
+This branch is device for building of the LineageOS 14.1 and Android Nougat 7.1.1 AOSP ROMs.
 
 ---
 
@@ -28,45 +28,43 @@ Front Camera | 2MP, Int. 5MP (OV)
 
 # Build Information
 
-### In progress(only for CM 14.1):
+### Working
  * Hardware acceleration
  * Wi-Fi
- * Offline charging
- * GPS
- * AGPS
  * Vibration
  * Audio
- * Auto brightness
- * Doze
- * RAM and ROM
- * Rotation
- * All sensors
- * NFC (payments, pairing .etc)
- * Lazer autofocus
  * Flashlight (statusbar and camera)
  * Bluetooth
- * Camera rear/front (video and photo)
  * Micro SD support
  * MTP and Mass Storage modes
- * Audio over Bluetooth (music, calls .etc)
  * Fingerprint scanner
+ * RAM and ROM
+ * Rotation
+ * Camera rear/front (photographs only)
  * Wi-Fi tethering
- * HOME Button like in stock
- * Special button new functional
-
+ * GPS
+ * All sensors
+ * Fingerprint
+ * Doze
+ * Screenrecorder
+ * Offline charging
+ * RIL
+ * Operator name
+ * Auto brightness
+ * Adjustable brightness
 
 ## Broken/Bugs
-* Camera
-* RIL
-* Other other other other other
+ * Camera rear/front (video)
 
 ## To be checked
-* OTG
+ * Audio over Bluetooth (music, calls .etc)
+ * OTG
+ * Enforcing SELinux
 
 
 
 ### Thanks to:
- * CyanogenMod team
+ * LineageOS team
  * Deepflex
  * Wuxianlin
  * Ferhung
